@@ -38,7 +38,7 @@
 
 #widget-manager-multi-dashboard-tabs {
 	position: absolute;
-	top: 20px;
+	top: 10px;
 }
 
 .widget-manager-multi-dashboard-tabs-edit {
